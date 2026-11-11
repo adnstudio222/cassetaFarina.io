@@ -433,7 +433,7 @@ footer h6 {
   }
 
   .hero-left {
-    margin: 0 0 20px 0;
+    margin: 0 0 20px -50px;
   }
 
   .hero-left h1,
@@ -457,10 +457,10 @@ footer h6 {
   }
 
   .hero-bttn button {
-    font-size: 16px;
+    font-size: 10px;
     font-weight: normal;
-    padding: 8px 16px;
-    margin-bottom: 20px;
+    padding: 6px 12px;
+    margin-bottom: 15px;
   }
 
   .header-slider {
@@ -468,7 +468,7 @@ footer h6 {
   }
 
   .header-slider .carousel-item img {
-    width: 100%;
+    width: 120%;
     height: 490px;
     object-fit: cover;
   }
