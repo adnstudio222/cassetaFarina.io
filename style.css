@@ -428,17 +428,17 @@ footer h6 {
 
   /* hero */
   .hero {
-    padding: 20px;
-    margin-top: 50px;
+    padding: 7px;
+    margin-top: 35px;
   }
 
   .hero-left {
-    margin: 0 0 48px 0;
+    margin: 0 0 20px 0;
   }
 
   .hero-left h1,
   .about h1 {
-    font-size: 48px;
+    font-size: 40px;
     margin-bottom: 10px;
   }
 
@@ -460,6 +460,7 @@ footer h6 {
     font-size: 16px;
     font-weight: normal;
     padding: 8px 16px;
+    margin-bottom: 20px;
   }
 
   .header-slider {
